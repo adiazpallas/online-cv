@@ -1,2 +1,2 @@
 # online-cv
-Just an online CV
+Just an online CV.
